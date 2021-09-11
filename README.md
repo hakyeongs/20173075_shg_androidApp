@@ -11,4 +11,4 @@
      
 <img width="300" height="200" src="./png/고양이.jpg"></img>
 
-<img width="300" height="200" src="./png/버튼누르기.png"></img>
+<img width="200" height="400" src="./png/버튼누르기.png"></img>
