@@ -15,3 +15,8 @@
 
 
 ## 3주차
+
+
+<img width="200" height="400" src="./png/전화걸기.png"></img>
+
+<img width="200" height="400" src="./png/네이버.png"></img>
