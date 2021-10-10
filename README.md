@@ -31,7 +31,7 @@
 
 ## 5주차
 
-<img width="200" height="400" src="./png/1.png"></img>
+<img width="200" height="400" src="./png/"></img>
 
 <img width="200" height="400" src="./png/2.png"></img>
 
