@@ -38,4 +38,4 @@
 
 ##6주차
 
-<img width="200" height="400" src="./png/width.jpg"></img>
+<img width="200" height="400" src="./png/width.png"></img>
