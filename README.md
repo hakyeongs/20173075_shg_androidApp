@@ -50,5 +50,5 @@
 
 ## 11주차
 
-<img width="500" height="300" src="./png/11주차.png/"></img>
+<img width="200" height="400" src="./png/11주차.png/"></img>
 
